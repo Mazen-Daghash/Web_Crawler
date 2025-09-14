@@ -48,7 +48,7 @@ A high-performance, full-stack web crawler with a modern React frontend and Flas
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Mazen-Daghash/webcrawler.git
+   git clone https://github.com/Mazen-Daghash/web_crawler.git
    cd webcrawler
    ```
 
